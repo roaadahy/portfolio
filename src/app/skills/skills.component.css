@@ -1,0 +1,24 @@
+.skills {
+  background-color: rgb(64,64,64);
+  color: white;
+  padding: 3rem 0;
+  width: 100%;
+}
+
+.bg-grey {
+  background-color: rgb(149, 145, 136);
+  color: white;
+  list-style: none;
+}
+.bar_color{
+  background-color: rgb(224,223,219);
+}
+ul {
+  list-style: none;
+}
+.my {
+  width: 300px;
+  padding-left: 50px;
+  align-items: center;
+}
+

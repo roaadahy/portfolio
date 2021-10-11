@@ -1,0 +1,9 @@
+<section class="portfolio">
+      <h1 class="pl-5 mb-5">Portfolio</h1>
+      <div class="portfolio__projects text-center">
+        <div class="project rounded-1" *ngFor="let project of projects; let i = index">
+          <h3>{{ project.name }}</h3>
+          <hr>
+        </div>
+      </div> 
+</section>
